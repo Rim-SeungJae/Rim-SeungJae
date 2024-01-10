@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-SeungJae)](https://github.com/anuraghazra/github-readme-stats)
 
-[My personal blog](https://rim-seungjae.github.io/)
+🔗[My personal blog](https://rim-seungjae.github.io/)
 
 <!--
 **dipreez/dipreez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
