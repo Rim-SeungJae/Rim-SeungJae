@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-SeungJae)](https://github.com/anuraghazra/github-readme-stats)
 
-🔗[Personal Porfolio](https://phantom-fountain-d0d.notion.site/fd64d4e5a3f442e49b27cffbb3ec2fd0?pvs=4)
-
 <!--
 **dipreez/dipreez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
